@@ -25,4 +25,7 @@
   stream-type="on-demand"
   src="https://media-files.vidstack.io/hls/index.m3u8"
   autoplay={true}
+  muted={true}
+  playsinline={true}
+  loop={true}
 />

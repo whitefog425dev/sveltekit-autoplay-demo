@@ -51,7 +51,7 @@
 
 <h1>Caminandes: Llamigos</h1>
 <p>From <a href="https://studio.blender.org/films">Blender Studio</a>. CC-BY</p>
-<a href="/video/123" target="_blank">Open</a>
+<a href="/video/123" target="_self">Open</a>
 
 <div>
 	<video
